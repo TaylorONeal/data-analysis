@@ -1,0 +1,23 @@
+{
+  "name": "honest-data-analysis",
+  "owner": {
+    "name": "Taylor O'Neal",
+    "url": "https://thinkermetrics.com"
+  },
+  "metadata": {
+    "description": "Claude Skills that stop AI from hallucinating numbers in data analysis: a four-step Schema, Analyze, Visualize, Brief workflow plus role overlays.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "honest-data-analysis",
+      "source": "./",
+      "description": "Four-step honest data analysis workflow (schema check, analyze, visualize, insight brief), five standalone atomic skills, and nine role overlays.",
+      "version": "1.0.0",
+      "author": { "name": "Taylor O'Neal", "url": "https://thinkermetrics.com" },
+      "homepage": "https://thinkermetrics.com/ai-data-analysis",
+      "license": "MIT",
+      "keywords": ["data-analysis", "csv", "anti-hallucination", "analytics", "prompts"]
+    }
+  ]
+}
