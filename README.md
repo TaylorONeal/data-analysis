@@ -117,9 +117,18 @@ No. The framework is for anyone uploading a CSV or pasting tabular data into a c
 
 The polished web version of this playbook, with the prompts formatted for copy-paste, lives at **https://thinkermetrics.com/ai-data-analysis**. The prompt bodies in this repo are lifted verbatim from that page's source. Do not edit them; they are battle-tested.
 
-## Credit
+## More from me
 
-Origin: the **AI Data Analysis Playbook** by **Taylor O'Neal / [ThinkerMetrics](https://thinkermetrics.com)**. Packaged as Claude Skills here for anyone who wants the workflow in their own environment.
+These started as the AI Data Analysis Playbook, which I wrote for
+[ThinkerMetrics](https://thinkermetrics.com) and packaged as skills here. I teach digital
+analytics at Miami University, which is most of why this repo exists.
+
+- [thinkermetrics.com](https://thinkermetrics.com) for the analytics playbooks these came from
+- [@thinkermetrics](https://www.youtube.com/@thinkermetrics) on YouTube for analytics walkthroughs
+- [tayloroneal.com](https://www.tayloroneal.com) for everything else I work on
+- [@businesstaylor](https://x.com/businesstaylor) on X and [@grizzpm](https://www.youtube.com/@grizzpm) on YouTube
+
+If this saved you time, a star helps other people find it. Issues and PRs are welcome.
 
 ## License
 
